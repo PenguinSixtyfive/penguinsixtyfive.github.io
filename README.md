@@ -1,3 +1,3 @@
 # road2hacker
-My study notes.
 
+This repo will host my study notes on my journey to becoming an ethical hacker.
