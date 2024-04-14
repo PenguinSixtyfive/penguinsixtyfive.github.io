@@ -46,7 +46,7 @@
 | Key combo | Command |
 | --- | --- |
 | u | Undo |
-| ce | delete word and go to insert mode |
+| ce | Delete word and go to insert mode |
 | r | Replace char |
 | R | Replace sentence |
 
