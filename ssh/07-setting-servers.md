@@ -13,9 +13,10 @@ systemctl enable sshd.service
 ```
 
 Common configs in `/etc/ssh/sshd_config`:
- 
+| Comment | Description|
+| --- | --- |
 | * #Port 22  | Uncomment to change the listening port |
-| * #LoginGraceTime 2m | |
+| * #LoginGraceTime 2m | - |
 | #PermitRootLogin Yes | Uncomment to change to no so you can't login as `root` |
 | #PasswordAuthentication | Disable user password logins, and use keys only |
 | #Banner <path to file.txt> | Display a message when user logs in |
