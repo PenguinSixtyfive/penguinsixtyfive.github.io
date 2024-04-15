@@ -13,7 +13,7 @@ Quad-A records are used for IPv6.
 ### `CNAME` Records  
 Aliases that maps names to other names.  
 
-### `MX' Records  
+### `MX` Records  
 These point to mail servers.  
 
 ### `SOA` Records  
