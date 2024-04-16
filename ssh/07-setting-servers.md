@@ -1,6 +1,6 @@
 # Set up
 
-To install an SSH server software on Debian:
+To install an SSH server software on Debian (or Debian-based distros):
 
 ```bash
 sudo apt install openssh-server

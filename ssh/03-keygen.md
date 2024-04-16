@@ -3,12 +3,12 @@
 Connecting using a key pair is more secure than a username and password.
 
 The key pair are:
-1. Public key  
+1. Public key\
 You can share this key with servers and other users.
-2. Private key  
+2. Private key\
 This is **not** to be shared under any circumstances.
 
-You can generate multiple private keys to connect from different computers, or copy the same private key over.  
+You can generate multiple private keys to connect from different computers, or copy the same private key over.\
 Generating multiple keys requires a bit more setup, but is considered a safer option.
 
 To generate a key:
@@ -16,8 +16,8 @@ To generate a key:
 ssh-keygen -t rsa
 ```
 
-Follow the interactive prompts.  
-The `passphrase` is to unlock the key, not a user password.  
+Follow the interactive prompts.\
+The `passphrase` is to unlock the key, not a user password.\
 The random art image is used to verify the key, but most likely won't be used.
 
 To copy the public key to a server:

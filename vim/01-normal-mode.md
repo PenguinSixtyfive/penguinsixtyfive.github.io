@@ -1,15 +1,17 @@
 # Normal mode
-> ps: if a letter is capitalized, it means `shift + letter`.
+
+ps: if a letter is capitalized, it means `shift + letter`.
 
 ### To exit Vim:
+
 | Key combo | Command |
 | --- | --- |
 | :w | Save file |
 | :wq | Save and exit |
 | :q! | Exit without saving |
 
-
 ### Navigation
+
 | Key combo | Command |
 | --- | --- |
 | a | Insert after cursor |
@@ -24,6 +26,7 @@
 | b | Move a word backwards |
 
 ### Lines Navigation
+
 | Key combo | Command |
 | --- | --- |
 | gg | Go to top of file |
@@ -34,6 +37,7 @@
 | :# | Go to line # |
 
 ### Deleting:
+
 | Key combo | Command |
 | --- | --- |
 | x | Delete char at cursor |
@@ -43,6 +47,7 @@
 | D | Delete from cursor to end of line |
  
 ### Misc:
+
 | Key combo | Command |
 | --- | --- |
 | u | Undo |

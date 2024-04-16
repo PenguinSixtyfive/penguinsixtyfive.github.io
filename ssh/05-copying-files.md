@@ -20,7 +20,7 @@ For quick transfers, use `Secure Copy`:
 scp <file> <user>@<server>:
 ```
 
-The colon at the end will copy the files to the `$HOME` directory on the server.  
+The colon at the end will copy the files to the `$HOME` directory on the server.\
 You could also specify a path after the colon.
 
 To copy files from the server to the local machine:

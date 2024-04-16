@@ -1,6 +1,6 @@
 # Visual mode
 
-Visual mode is used to select text.  
+Visual mode is used to select text.\
 After the text is selected, you can manipulate it with the shortcuts below.
 
 | Key combo | Command |

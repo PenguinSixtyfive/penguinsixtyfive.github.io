@@ -1,5 +1,7 @@
 # Find & replace
 
+Find and replace words and sentences.
+
 | Key combo | Command |
 | --- | --- |
 | /<search term> | Find term |

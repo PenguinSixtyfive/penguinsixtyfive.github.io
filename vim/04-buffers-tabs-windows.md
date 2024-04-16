@@ -3,6 +3,7 @@
 Like any other text editor, Vim can work with multiple files at once, called `buffers`.
 
 ### Buffers
+
 | Key combo | Command |
 | --- | --- |
 | :e | Edit file in new buffer |
@@ -12,6 +13,7 @@ Like any other text editor, Vim can work with multiple files at once, called `bu
 | :bd | Remove file from buffer (buffer delete) |
 
 ### Tabs:
+
 | Key combo | Command |
 | --- | --- |
 | :tabedit <file> | Edit file in new tab |
@@ -23,6 +25,7 @@ Like any other text editor, Vim can work with multiple files at once, called `bu
 | :tabonly | Close all tabs not in focus |
 
 ### Splits:
+
 | Key combo | Command |
 | --- | --- |
 | :sp | Split |
@@ -33,6 +36,8 @@ Where `C` is `ctrl`.
 
 ### Sessions:
 A Vim session is a collection of files saved together.
+| Key combo | Command |
+| --- | --- |
 | :mksession <file>.vim | Save multiple files as a vim session |
 
 
