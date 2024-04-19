@@ -10,4 +10,4 @@ Encode/decode data and print to standard output.
 | -i | When decoding, ignore non-alphabet characters |
 | -w | Wrap encoded lines after `COLS` character.  Use 0 to disable line wrapping |
 
-
+### [Back](linux-man-pages.md)

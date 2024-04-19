@@ -4,7 +4,7 @@ Change file mode bits
 
 ### Modes
 
-`chmod` follows the convention `chmod <user><operator><mode>`\
+`chmod` follows the convention `chmod <user><operator><mode>`
 
 | Mode | Description |
 | --- | --- |

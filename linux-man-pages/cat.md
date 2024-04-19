@@ -13,4 +13,4 @@ Concatenate files and print on the standard output
 | -T | Display `TAB` characters as `^I` |
 | -v | Use `^` and `M-` notation, except for `LFD` and `TAB` |
 
-
+### [Back](linux-man-pages.md)
