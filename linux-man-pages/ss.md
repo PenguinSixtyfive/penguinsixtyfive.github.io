@@ -9,10 +9,10 @@ It can display more TCP and state information than other tools.
 | Option | Description |
 | --- | --- |
 | -a | Display both listening and non-listening sockets |
-| -D `FILE` | Do not display anything, just dump raw information about TCP sockets to `FILE` after applying filters |
+| -D `file` | Do not display anything, just dump raw information about TCP sockets to `file` after applying filters |
 | -e | Show detailed socket information. Refer to the manual for output format |
 | -E | Continually display sockets as they are destroyed |
-| -F FILE | Read filter information from `FILE` |
+| -F `file` | Read filter information from `file` |
 | -H | Suppress header line |
 | -K | Attempts to forcibly close (kill) sockets. It supports IPv4 and IPv6 sockets only |
 | -l | Display only listening sockets |
@@ -26,12 +26,12 @@ It can display more TCP and state information than other tools.
 | -x | Display Unix domain sockets |
 | -z | Like `-Z` option but also shows the socket context |
 | -Z | Like`-p` option but also shows process security context. If `-T` is used, also shows thread security context |
-| -0 | Display `PACKET` sockets |
+| -0 | Display `packet` sockets |
 | -4 | Display only IPv4 sockets |
 | -6 | Display only IPv6 sockets |
 
 ### Note
-When no option is used, `ss` displays a list of open non-listening sockets that have established connection.
 
+* When no option is used, `ss` displays a list of open non-listening sockets that have established connection.
 
-
+### [Back](linux-man-pages.md)

@@ -4,7 +4,7 @@ Change file mode bits
 
 ### Modes
 
-`chmod` follows the convention `chmod <user><operator><mode>`
+`chmod` follows the convention `chmod user operator mode`.
 
 | Mode | Description |
 | --- | --- |
@@ -25,4 +25,4 @@ Change file mode bits
 | -R | Change files and directories recursively |
 | -v | Output a diagnostic for every file processed
 
-
+### [Back](linux-man-pages.md)

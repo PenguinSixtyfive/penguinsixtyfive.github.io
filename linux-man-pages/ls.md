@@ -26,4 +26,4 @@ List information about the `FILEs`, which is the current directory by default.\
 | -X | Sort alphabetically by entry extension |
 | -1 | List one file per line |
 
-
+### [Back](linux-man-pages.md)

@@ -1,6 +1,6 @@
 # UNAME
 
-Print system information
+Print system information.
 
 ### Common Options
 
@@ -16,4 +16,4 @@ Print system information
 | -r, -v | Print the kernel release or version |
 
 
-
+### [Back](linux-man-pages.md)

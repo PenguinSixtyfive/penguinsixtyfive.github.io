@@ -18,9 +18,6 @@ Show & manipulate routing, network devices, interfaces and tunnels.
 | tcpmetrics | Manage TCP Metrics |
 | tunnel | Tunnel over IP |
 
-### Note
-The names of all objects may be written in full or abbreviated form, for example `address` can be abbreviated as `addr` or just `a`.
-
 ### Common Options
 
 | Option | Description |
@@ -38,4 +35,8 @@ The names of all objects may be written in full or abbreviated form, for example
 | -4 | Shortcut for `-family inet` |
 | -6 | Shortcut for `-family inet6` |
 
+### Note
 
+* The names of all objects may be written in full or abbreviated form, for example `address` can be abbreviated as `addr` or just `a`.
+
+### [Back](linux-man-pages.md)

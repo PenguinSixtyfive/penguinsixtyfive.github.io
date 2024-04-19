@@ -18,4 +18,4 @@ Move and rename files.
 
 * If you specify more than one of `-i`, `-f`, `-n`, only the final one takes effect.
 
-
+### [Back](linux-man-pages.md)

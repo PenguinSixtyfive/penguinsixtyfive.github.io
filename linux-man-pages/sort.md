@@ -18,4 +18,4 @@ Write sorted concatenation of file(s) to standard output.
 | -u | With `-c`: check for strict ordering. without `-c`: output only the first of an equal run |
 | -z | Line delimiter is `NUL` not `newline` |
 
-
+### [Back](linux-man-pages.md)

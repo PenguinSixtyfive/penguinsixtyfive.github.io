@@ -17,4 +17,4 @@ Copy `SOURCE` file to `DEST` directory, or multiple files.
 | -t | Copy all `SOURCE` arguments into `DIRECTORY` |
 | -v | Explain what is being done |
 
-
+### [Back](linux-man-pages.md)

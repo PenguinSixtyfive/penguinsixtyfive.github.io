@@ -10,11 +10,16 @@
 * [ip](ip.md)
 * [kill](kill.md)
 * [ls](ls.md)
-* 
-* 
-* 
-* 
-* 
+* [mkdir](mkdir.md)
+* [mv](mv.md)
+* [passwd](passwd.md)
+* [pwd](pwd.md)
+* [rm](rm.md)
+* [shred](shred.md)
+* [sort](sort.md)
+* [ss](ss.md)
+* [touch](touch.md)
+
 
 
 
