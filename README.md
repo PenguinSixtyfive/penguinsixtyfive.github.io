@@ -1,6 +1,8 @@
-# road2hacker
+# [Linux Manual Pages](./linux-man-pages/linux-man-pages.md)
 
-[Linux Manual Pages](./linux-man-pages/linux-man-pages.md)
+
+
+
 
 This website (repo) is a work in progress, and will host my study notes on my journey to becoming an ethical hacker.
 
