@@ -1,12 +1,14 @@
 # SSH
 
 SSH is a program for logging into a remote machine and for executing commands on a remote machine.\
-SSH usually runs on port 22.
+It usually runs on port 22.
 
-## Some ssh clients include:
-| Platform | App |
+### Some ssh clients include
+
+| Platform | Client |
 | --- | --- |
-| Linux, MacOS | builtin terminals |
+| Linux | Builtin terminal |
+| Mac OS | Builtin terminal |
 | Windows | Putty | 
 | Android | JuiceSSH |
 | iOS | Prompt |
