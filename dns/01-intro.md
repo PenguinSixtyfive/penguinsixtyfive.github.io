@@ -16,7 +16,7 @@ TLDs include but are not limited to: .com, .net, .uk, .se ... etc.\
 DNS can have an unlimited amounts of domain levels.\
 
 ### Examples:  
-`wiki.debian.org`  
-`mail.google.com`  
+`wiki.debian.org`\
+`mail.google.com`
 
 
