@@ -10,5 +10,4 @@ Special thanks to my good friend `Erty` for all the help with the rabbit-hole th
 Penguin out 🐧
 
 * [Repo](https://github.com/PenguinSixtyfive/penguinsixtyfive.github.io)
-
-### [Home](https://penguinsixtyfive.github.io/)
+* [Home](https://penguinsixtyfive.github.io/)

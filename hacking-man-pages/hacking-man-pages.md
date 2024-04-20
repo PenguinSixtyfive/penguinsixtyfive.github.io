@@ -1,4 +1,4 @@
-# Linux Manual Pages
+# Hacking Manual Pages
 
 ### Networks
 * [aircrack-ng](./networks/aircrack-ng.md)
@@ -19,8 +19,6 @@
 * [dmitry](./web-apps/dmitry.md)
 * [wafw00f]((./web-apps/wafw00f.md)
 
+* [Home](https://penguinsixtyfive.github.io/)
 
-
-
-[Home](https://penguinsixtyfive.github.io/)
 
