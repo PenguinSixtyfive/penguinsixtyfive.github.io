@@ -3,7 +3,9 @@
 Here I will host my study notes on my journey to becoming an ethical hacker.
 
 [Linux Manual Pages][linux-man-pages] | [Hacking Manual Pages][hacking-man-pages]
+
 [SSH][ssh] | [Vim][vim]
+
 [Repo][repo] | [Who am I][whoami]
 
 
