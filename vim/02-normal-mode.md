@@ -55,6 +55,6 @@ ps: if a letter is capitalized, it means `shift + letter`.
 | r | Replace char |
 | R | Replace sentence |
 
-[* Back to VIM](00-vim.md)
+* [VIM](00-vim.md)
 
 

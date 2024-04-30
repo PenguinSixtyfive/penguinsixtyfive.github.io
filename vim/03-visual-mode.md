@@ -11,10 +11,10 @@ After the text is selected, you can manipulate it with the shortcuts below.
 ### Cut, copy & paste:
 | Key combo | Command |
 | --- | --- |
-| d | Cut (delete) |
-| y | Copy (yank) |
-| p | Paste (put) |
+| d | Cut \(delete\) |
+| y | Copy \(yank\) |
+| p | Paste \(put\) |
 
-[* Back to VIM](00-vim.md)
+* [VIM](00-vim.md)
 
 

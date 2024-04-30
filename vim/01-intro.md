@@ -14,5 +14,5 @@ Other modes include:
 * Replace mode
 * Command mode
 
-[* Back to VIM](00-vim.md)
+* [VIM](00-vim.md)
 
