@@ -6,14 +6,14 @@ Here I will host my study notes on my journey to becoming an ethical hacker.
 
 [SSH][ssh] \| [Vim][vim]
 
-[Repo][repo] \| [Who am I][whoami]
-
+[Who am I][whoami]\
+[Repo][repo]
 
 [linux-man-pages]: ./linux-man-pages/linux-man-pages.md
 [hacking-man-pages]: ./hacking-man-pages/hacking-man-pages.md
 
 [ssh]: ./ssh/00-ssh.md
-[vim]: ./vim/00-intro.md
+[vim]: ./vim/00-vim.md
 
 [repo]: https://github.com/PenguinSixtyfive/penguinsixtyfive.github.io
 [whoami]: whoami.md
