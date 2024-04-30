@@ -40,5 +40,6 @@ A Vim session is a collection of files saved together.
 | --- | --- |
 | :mksession <file>.vim | Save multiple files as a vim session |
 
+[* Back to VIM](00-vim.md)
 
 

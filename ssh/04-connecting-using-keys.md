@@ -20,3 +20,5 @@ To connect:
 ssh <shortcut name>
 ```
 
+[* Back to SSH](00-ssh.md)
+

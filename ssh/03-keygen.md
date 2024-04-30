@@ -41,4 +41,5 @@ After copying the pub key to the server, you can connect to the server using the
 ssh -i .ssh/<key> <user>@<server>
 ```
 
+[* Back to SSH](00-ssh.md)
 

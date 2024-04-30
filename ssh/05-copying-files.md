@@ -29,4 +29,5 @@ To copy files from the server to the local machine:
 scp <user>@<server>:<file> <directory on local machine>
 ```
 
+[* Back to SSH](00-ssh.md)
 

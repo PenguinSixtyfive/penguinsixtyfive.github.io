@@ -23,4 +23,5 @@ Common configs in `/etc/ssh/sshd_config`:
 
 You will have to reboot the server for these changes to take effect.
 
+[* Back to SSH](00-ssh.md)
 

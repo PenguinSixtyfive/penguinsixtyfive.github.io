@@ -15,4 +15,6 @@ After the text is selected, you can manipulate it with the shortcuts below.
 | y | Copy (yank) |
 | p | Paste (put) |
 
+[* Back to VIM](00-vim.md)
+
 

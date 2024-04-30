@@ -17,8 +17,8 @@
 ### Web Apps
 * [dirb](./web-apps/dirb.md)
 * [dmitry](./web-apps/dmitry.md)
-* [wafw00f]((./web-apps/wafw00f.md)
+* [wafw00f](./web-apps/wafw00f.md)
 
-* [Home](https://penguinsixtyfive.github.io/)
+### [Home](https://penguinsixtyfive.github.io/)
 
 
